@@ -1,4 +1,4 @@
-# Dynamic Systems Analysis of LambdaCDM
+# Dynamic Systems Analysis of $\Lambda$CDM
 
 ## Prerequisites
 
